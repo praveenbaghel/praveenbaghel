@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:828/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🔭 I’m currently working on **React, Node, Angular, NestJS, WebAPIs, Dotnet, Datawarehouse, Python**
+- 🔭 I’m currently working on **Node, Angular, NestJS, WebAPIs, Dotnet, React, Datawarehouse, Python**
 
 - 🌱 I’m currently learning **IOT**
 
